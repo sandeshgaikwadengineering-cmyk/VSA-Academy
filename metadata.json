@@ -1,0 +1,6 @@
+{
+  "name": "VSA Academy - Engineering & Technical Education",
+  "description": "Official portal of VSA Academy featuring engineering excellence, technical course programs, admissions, faculty directory, student learning portal, and administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
